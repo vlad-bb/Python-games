@@ -1,4 +1,4 @@
-### My_1_game
-## What times, such games!
-### I decided to remake an old arcade game in a modern way.
-### Dedicated to the heroic struggle of the Armed Forces of Ukraine against russian invaders - orcs.
+# Python Games Set
+Build 
+
+```pyinstaller /Users/admin/Documents/GitHub/Python_Games/main.py --onefile --name Run-Python-Games --icon icon.icns```
