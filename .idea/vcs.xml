@@ -3,6 +3,8 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ROCK-SCISSORS-PAPER" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/for MacOS/game_data" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/game_data" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/orcodav" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/rsp" vcs="Git" />
   </component>

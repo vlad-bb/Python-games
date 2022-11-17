@@ -1,0 +1,6 @@
+altgraph==0.17.3
+colorama @ file:///Users/admin/Library/Caches/pypoetry/artifacts/09/53/66/53d2634a58756d7e4ca4e4e3c799be6a98e347f256b417fdf9b3bd64ad/colorama-0.4.6-py2.py3-none-any.whl
+macholib==1.16.2
+pygame @ file:///Users/admin/Library/Caches/pypoetry/artifacts/a4/63/d1/9150839591ced9a5eae9a158332fe158bf7a41fd9970759942bccce717/pygame-2.1.2-cp310-cp310-macosx_10_9_x86_64.whl
+pyinstaller==5.6.2
+pyinstaller-hooks-contrib==2022.13
